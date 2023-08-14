@@ -5,6 +5,7 @@
     background-size:cover;
     background-repeat: no-repeat;
     font-size: 30px;
+    text-align: center;
 }
 #myCanvas
 {
@@ -19,4 +20,8 @@ h3
 	background-color: white;
 	display: inline-block;
 }
-
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
